@@ -18,6 +18,12 @@ class DatabaseSeeder extends Seeder
         // $this->call(SetupSeeder::class);
         $faker = Faker\Factory::create('fr_FR');
 
+        $u = new User;
+        $u->name = "email@email.net";
+        $u->email = "email@email.net";
+        $u->password = Hash::make('123456789');
+        $u->save();
+
         for ($i = 0; $i < 125; $i++) {
             $u = new User;
             $u->name = $faker->name;
