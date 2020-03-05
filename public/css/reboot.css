@@ -1,0 +1,106 @@
+/* https://www.color-hex.com/color/008080 */
+
+body {
+    background-color: #cce5e5;
+}
+
+
+
+.bg-event {
+    background-color: #198c8c !important;
+}
+
+.bg-event-darker {
+    background-color: #008080 !important;
+}
+
+.bg-event-lighter {
+    background-color: #329999 !important;
+}
+
+.btn-event {
+    background-color: #198c8c !important;
+    /* border-color: #008080 !important; */
+    color: #fefefe !important;
+}
+
+.btn-event:hover {
+    background-color: #006666 !important;
+}
+
+.border-event {
+    border-color: #198c8c !important;
+}
+
+.shadow-event {
+    -moz-box-shadow: 0px 0px 5px -3px #000;
+    -webkit-box-shadow: 0px 0px 5px -3px #000;
+    -o-box-shadow: 0px 0px 5px -3px #000;
+    box-shadow: 0px 0px 5px -3px #000;
+    filter: progid:DXImageTransform.Microsoft.Shadow(color=#000, Direction=NaN, Strength=5);
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.event-header a {
+    color: #fefefe !important;
+}
+
+.event-header a:hover {
+    color: #dadada !important;
+}
+
+.nav-item a {
+    color: #fefefe;
+}
+
+a.nav-link:hover,
+.active {
+    background-color: #006666;
+    border-radius: 5px;
+    color: #fefefe;
+}
+
+a.dropdown-item:hover {
+    background-color: #006666;
+    border-radius: 0px;
+    color: #fefefe;
+}
+
+
+nav.navbar {
+  min-height: 75px;
+}
+
+nav .navbar-brand {
+  font-size: 20pt;
+  margin: 0;
+  padding: 0.32rem 1rem 0.50rem 1rem;
+  margin-right: 1rem;
+  font-weight: 400;
+  transition: text-decoration 50ms;
+}
+
+nav a.nav-link {
+  font-size: 20pt;
+  font-weight: 200;
+  padding: 8px 12px 8px 12px !important
+}
+
+nav a.nav-link:after {
+  content: "";
+  width: 0px;
+  height: 1px;
+  display: block;
+  background: #f8fafc;
+  transition: 300ms;
+}
+
+nav a.nav-link:hover:after {
+  width: 100%;
+}

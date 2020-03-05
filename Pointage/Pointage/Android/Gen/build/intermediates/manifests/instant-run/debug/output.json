@@ -1,0 +1,1 @@
+[{"outputType":{"type":"INSTANT_RUN_MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":77,"versionName":"0.0.9.0","enabled":true,"outputFile":"Pointage.apk","fullName":"debug","baseName":"debug"},"path":"AndroidManifest.xml","properties":{"packageId":"com.masociete.pointage","split":"","minSdkVersion":"21"}}]

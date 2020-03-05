@@ -1,0 +1,281 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:1-4441
+INJECTED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:1-4441
+INJECTED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:1-4441
+INJECTED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:1-4441
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\dupre24u\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\6fb180647d833878d6856945177650ac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\dupre24u\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\917f6e7a05769cf6ddefe9664b2f2c1c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\dupre24u\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\511ac5277dbb1b2d7e7e4a8eb3570284\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\dupre24u\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\eae68dcef5f7dc55dab70a6f57e264b7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\dupre24u\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\1c151eca2f476698acd2f88a570aa8f8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\dupre24u\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\9617ba968b4f8ecfee410d721d5ecee6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\dupre24u\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\2a90c43649efc3a84a980e491e5903cf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\dupre24u\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\d8ebedc9229320a296c77f798560daf3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\dupre24u\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\dc0c93748c7e7162b5e64bc85e7f7edc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\dupre24u\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\cb86deae22f1767ac02039a50f7c3eaf\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\dupre24u\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\86313fc888957b6b468e6d97748d2424\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\dupre24u\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\1381e97c59327251c7f5ac9c4838006d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\dupre24u\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\b4e6f085e84986cb6a47135cf27cf016\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\dupre24u\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6029b392db08d61c7277062102b023ec\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:1-4441
+INJECTED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:1-4441
+INJECTED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:1-4441
+	package
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:70-102
+		INJECTED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml
+		INJECTED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:103-132
+		INJECTED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml
+		INJECTED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:133-157
+		INJECTED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml
+		INJECTED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml
+	android:installLocation
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:158-188
+application
+ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:189-3842
+	android:label
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:264-296
+	android:resizeableActivity
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:367-400
+	android:largeHeap
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:341-365
+	android:icon
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:297-340
+	android:name
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:202-263
+activity#com.masociete.pointage.wdgen.GWDPEventsio$WDLanceur
+ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:401-856
+	android:screenOrientation
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:661-703
+	android:label
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:456-488
+	android:configChanges
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:558-660
+	android:theme
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:489-557
+	android:name
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:411-455
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:704-845
+action#android.intent.action.MAIN
+ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:719-770
+	android:name
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:727-768
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:770-829
+	android:name
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:780-827
+activity#com.masociete.pointage.wdgen.GWDFFEN_SCAN$WDActiviteFenetre
+ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:856-1096
+	android:hardwareAccelerated
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:1059-1094
+	android:configChanges
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:919-1021
+	android:theme
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:1022-1058
+	android:name
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:866-918
+activity#com.masociete.pointage.wdgen.GWDFFEN_PRESENCE$WDActiviteFenetre
+ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:1096-1383
+	android:screenOrientation
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:1303-1345
+	android:hardwareAccelerated
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:1346-1381
+	android:configChanges
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:1163-1265
+	android:theme
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:1266-1302
+	android:name
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:1106-1162
+activity#com.masociete.pointage.wdgen.GWDFFEN_CODEBARRES$WDActiviteFenetre
+ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:1383-1672
+	android:screenOrientation
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:1592-1634
+	android:hardwareAccelerated
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:1635-1670
+	android:configChanges
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:1452-1554
+	android:theme
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:1555-1591
+	android:name
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:1393-1451
+activity#com.masociete.pointage.wdgen.GWDFFEN_GESTION$WDActiviteFenetre
+ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:1672-1958
+	android:screenOrientation
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:1878-1920
+	android:hardwareAccelerated
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:1921-1956
+	android:configChanges
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:1738-1840
+	android:theme
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:1841-1877
+	android:name
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:1682-1737
+activity#com.masociete.pointage.wdgen.GWDFFEN_SESSIONS$WDActiviteFenetre
+ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:1958-2245
+	android:screenOrientation
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:2165-2207
+	android:hardwareAccelerated
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:2208-2243
+	android:configChanges
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:2025-2127
+	android:theme
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:2128-2164
+	android:name
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:1968-2024
+activity#com.masociete.pointage.wdgen.GWDFFEN_ACCUEIL$WDActiviteFenetre
+ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:2245-2531
+	android:screenOrientation
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:2451-2493
+	android:hardwareAccelerated
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:2494-2529
+	android:configChanges
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:2311-2413
+	android:theme
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:2414-2450
+	android:name
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:2255-2310
+activity#fr.pcsoft.wdjava.ui.activite.WDActivite$BlankActivity
+ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:2531-2719
+	xmlns:android
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:2541-2599
+	android:theme
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:2669-2717
+	android:name
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:2600-2668
+activity#fr.pcsoft.wdjava.core.erreur.report.WDErrorReportActivity
+ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:2719-2919
+	xmlns:android
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:2729-2787
+	android:theme
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:2861-2917
+	android:name
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:2788-2860
+activity#fr.pcsoft.wdjava.net.oauth2.WDOAuth2Manager$OAuthActivity
+ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:2919-3062
+	xmlns:android
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:2929-2987
+	android:name
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:2988-3060
+activity#fr.pcsoft.wdjava.ui.searchbar.WDSearchActivity
+ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:3062-3406
+	android:label
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:3193-3225
+	xmlns:android
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:3072-3130
+	android:name
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:3131-3192
+intent-filter#action:name:android.intent.action.SEARCH
+ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:3226-3310
+action#android.intent.action.SEARCH
+ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:3241-3294
+	android:name
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:3249-3292
+meta-data#android.app.searchable
+ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:3310-3395
+	android:resource
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:3359-3393
+	android:name
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:3321-3358
+provider#fr.pcsoft.wdjava.ui.searchbar.WDSearchHistory
+ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:3406-3607
+	android:authorities
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:3561-3605
+	android:exported
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:3536-3560
+	xmlns:android
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:3416-3474
+	android:name
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:3475-3535
+service#fr.pcsoft.wdjava.core.service.WDServiceLocal
+ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:3607-3677
+	android:name
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:3616-3675
+meta-data#fr.pcsoft.first_window_name
+ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:3677-3760
+	android:value
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:3731-3758
+	android:name
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:3688-3730
+meta-data#fr.pcsoft.multidex
+ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:3760-3828
+	android:value
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:3805-3826
+	android:name
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:3771-3804
+uses-sdk
+ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:3842-3910
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\dupre24u\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\6fb180647d833878d6856945177650ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\dupre24u\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\6fb180647d833878d6856945177650ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\dupre24u\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\917f6e7a05769cf6ddefe9664b2f2c1c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\dupre24u\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\917f6e7a05769cf6ddefe9664b2f2c1c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\dupre24u\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\511ac5277dbb1b2d7e7e4a8eb3570284\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\dupre24u\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\511ac5277dbb1b2d7e7e4a8eb3570284\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\dupre24u\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\eae68dcef5f7dc55dab70a6f57e264b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\dupre24u\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\eae68dcef5f7dc55dab70a6f57e264b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\dupre24u\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\1c151eca2f476698acd2f88a570aa8f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\dupre24u\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\1c151eca2f476698acd2f88a570aa8f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\dupre24u\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\9617ba968b4f8ecfee410d721d5ecee6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\dupre24u\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\9617ba968b4f8ecfee410d721d5ecee6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\dupre24u\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\2a90c43649efc3a84a980e491e5903cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\dupre24u\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\2a90c43649efc3a84a980e491e5903cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\dupre24u\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\d8ebedc9229320a296c77f798560daf3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\dupre24u\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\d8ebedc9229320a296c77f798560daf3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\dupre24u\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\dc0c93748c7e7162b5e64bc85e7f7edc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\dupre24u\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\dc0c93748c7e7162b5e64bc85e7f7edc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\dupre24u\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\cb86deae22f1767ac02039a50f7c3eaf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\dupre24u\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\cb86deae22f1767ac02039a50f7c3eaf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\dupre24u\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\86313fc888957b6b468e6d97748d2424\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\dupre24u\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\86313fc888957b6b468e6d97748d2424\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\dupre24u\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\1381e97c59327251c7f5ac9c4838006d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\dupre24u\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\1381e97c59327251c7f5ac9c4838006d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\dupre24u\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\b4e6f085e84986cb6a47135cf27cf016\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\dupre24u\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\b4e6f085e84986cb6a47135cf27cf016\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\dupre24u\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6029b392db08d61c7277062102b023ec\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\dupre24u\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6029b392db08d61c7277062102b023ec\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:3879-3908
+	android:minSdkVersion
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:3852-3878
+supports-screens
+ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:3910-4069
+	android:largeScreens
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:3985-4012
+	android:smallScreens
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:3928-3955
+	android:normalScreens
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:3956-3984
+	android:xlargeScreens
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:4013-4041
+	android:anyDensity
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:4042-4067
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:4069-4144
+	android:name
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:4086-4142
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:4144-4203
+	android:name
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:4161-4201
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:4203-4264
+	android:name
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:4220-4262
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:4264-4352
+	android:required
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:4327-4350
+	android:name
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:4278-4326
+uses-feature#android.hardware.camera
+ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:4352-4430
+	android:required
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:4405-4428
+	android:name
+		ADDED from C:\Users\dupre24u\Documents\eventsio\Pointage\Pointage\Android\Gen\AndroidManifest.xml:2:4366-4404
