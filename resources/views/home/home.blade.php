@@ -28,7 +28,7 @@
 
 <div class="container bg-white rounded-0 border p-3">
     <h1>
-        <a href="https://github.com/MltStephane/eventsio/raw/master/Pointage/Pointage/Exe/Pointage.apk">
+        <a href="">
             Télécharger l'application mobile
         </a>
     </h1>
