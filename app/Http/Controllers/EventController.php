@@ -91,7 +91,8 @@ class EventController extends Controller
 
         // Création de l'événement
         $session = $Evenement->sessions()->create($validForm);
-        $this->joinSession($Evenement->id, $session->id);
+        // dd($session);
+        $this->joinSession($Evenement, $session);
 
         return redirect()->route('events.showOneEvent', $Evenement->id);
     }
