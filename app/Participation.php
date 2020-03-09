@@ -7,6 +7,9 @@ use Illuminate\Database\Eloquent\Model;
 class Participation extends Model
 {
 
+    /**
+     * Mass assigned 
+     */
     protected $fillable = ['user_id', 'session_id', 'flashed_at'];
 
 

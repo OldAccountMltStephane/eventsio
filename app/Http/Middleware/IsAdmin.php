@@ -16,10 +16,6 @@ class IsAdmin
      */
     public function handle($request, Closure $next)
     {
-        if (Auth::user() && Auth::user()->is_admin == "1") {
-            return $next($request);
-        } else {
-            return redirect()->route('home.showHome');
-        }
+        return (Auth::user() && Auth::user()->is_admin == "1") ? $next($request) : redirect()->route('home.showHome');
     }
 }
