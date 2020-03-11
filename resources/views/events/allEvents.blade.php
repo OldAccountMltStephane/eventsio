@@ -29,11 +29,10 @@
 @section('js')
 
 <script>
-    $(() => {
-        $('.evtItem').on('click', function () {
-            window.location.href = '/events/' + $(this).attr('evenement-id')
-        })
+    $('.evtItem').on('click', function () {
+        window.location.href = '/events/' + $(this).attr('evenement-id')
     })
+
 </script>
 
 @endsection
