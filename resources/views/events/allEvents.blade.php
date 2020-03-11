@@ -15,10 +15,10 @@
 
 <div id="evtList" class="container bg-white rounded-0 border p-0">
     @foreach($allEvents as $e)
-    <div evenement-id="{{ $e->id }}" class="evtItem">
+    <a href="{{ route('events.showOneEvent',$e->id ) }}" evenement-id="{{ $e->id }}" class="evtItem">
         <h4 class="mb-0">{{ $e->name }}</h4>
         {!! html_entity_decode($e->description) !!}
-    </div>
+    </a>
     @endforeach
 </div>
 
@@ -27,14 +27,6 @@
 
 
 @section('js')
-
-<script>
-    $('.evtItem').on('click', function () {
-        window.location.href = '/events/' + $(this).attr('evenement-id')
-    })
-
-</script>
-
 @endsection
 
 
@@ -44,6 +36,7 @@
     .evtItem {
         padding: 16px;
         border-bottom: 1px solid #efefef;
+        color: white !important;
     }
 
     .evtItem:last-child {
