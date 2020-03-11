@@ -18,7 +18,6 @@ class EventController extends Controller
         $this->middleware('isgod')->only(['showEventEdition', 'showSessionEdition', 'newSession', 'editEvent', 'editSession', 'deleteEvent', 'deleteSession']);
     }
 
-
     public function showAllEvents()
     {
         $allEvents = Evenement::all();
@@ -160,4 +159,6 @@ class EventController extends Controller
         }
         return redirect()->route('home.showMe');
     }
+
+    
 }

@@ -33,3 +33,5 @@ Route::patch('/events/{Evenement}/sessions/{Session}', 'EventController@editSess
 Route::delete('/events/{Evenement}', 'EventController@deleteEvent')->name('events.deleteEvent');
 Route::delete('/events/{Evenement}/sessions/{Session}', 'EventController@deleteSession')->name('events.deleteSession');
 Route::delete('/me/qr/{Participation}', 'EventController@removeParticipation')->name('events.removeParticipation');
+
+

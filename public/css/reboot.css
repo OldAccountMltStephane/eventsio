@@ -74,33 +74,33 @@ a.dropdown-item:hover {
 
 
 nav.navbar {
-  min-height: 75px;
+    min-height: 75px;
 }
 
 nav .navbar-brand {
-  font-size: 20pt;
-  margin: 0;
-  padding: 0.32rem 1rem 0.50rem 1rem;
-  margin-right: 1rem;
-  font-weight: 400;
-  transition: text-decoration 50ms;
+    font-size: 20pt;
+    margin: 0;
+    padding: 0.32rem 1rem 0.50rem 1rem;
+    margin-right: 1rem;
+    font-weight: 400;
+    transition: text-decoration 50ms;
 }
 
 nav a.nav-link {
-  font-size: 20pt;
-  font-weight: 200;
-  padding: 8px 12px 8px 12px !important
+    font-size: 20pt;
+    font-weight: 200;
+    padding: 8px 12px 8px 12px !important
 }
 
 nav a.nav-link:after {
-  content: "";
-  width: 0px;
-  height: 1px;
-  display: block;
-  background: #f8fafc;
-  transition: 300ms;
+    content: "";
+    width: 0px;
+    height: 1px;
+    display: block;
+    background: #f8fafc;
+    transition: 300ms;
 }
 
 nav a.nav-link:hover:after {
-  width: 100%;
+    width: 100%;
 }

@@ -6,30 +6,22 @@ use Illuminate\Database\Eloquent\Model;
 
 class Evenement extends Model
 {
-
-    protected $fillable = ['user_id', 'name', 'description', 'location'];
-
-
-
     /**
-     * Un utilisateur peut participer à plus d'un événement.
-     *
-     * @return void
+     * Mass assignement
      */
-    public function user()
-    {
+    protected $fillable = ['user_id', 'name', 'description', 'location'];
+ 
+    /**
+     * Relation Evenement belongsTo User
+     */
+    public function user() {
         return $this->belongsTo('App\User');
     }
 
-
-
     /**
-     * Un utilisateur peut participer à plus d'un événement.
-     *
-     * @return void
+     * Relation Evenement hasMany Sessions
      */
-    public function sessions()
-    {
+    public function sessions() {
         return $this->hasMany('App\Session');
     }
 }

@@ -77,4 +77,11 @@
         </div>
     </body>
 
+    <script>
+        window.onload = () => {
+            $('input').attr('autocomplete', 'off')
+        }
+
+    </script>
+
 </html>
