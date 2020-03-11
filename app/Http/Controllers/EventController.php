@@ -14,7 +14,6 @@ class EventController extends Controller
 
     public function __construct()
     {
-
         $this->middleware('isgod')->only(['showEventEdition', 'showSessionEdition', 'newSession', 'editEvent', 'editSession', 'deleteEvent', 'deleteSession']);
     }
 
