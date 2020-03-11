@@ -36,7 +36,8 @@
     .evtItem {
         padding: 16px;
         border-bottom: 1px solid #efefef;
-        color: white !important;
+        color: black !important;
+        display: block;
     }
 
     .evtItem:last-child {
