@@ -130,8 +130,6 @@ class EventController extends Controller
 
     public function deleteEvent(Evenement $Evenement)
     {
-        $session = $Evenement->sessions();
-        $session->participations()->delete();
         $Evenement->sessions()->delete();
         $Evenement->delete();
         return redirect()->route('events.showAllEvents');
