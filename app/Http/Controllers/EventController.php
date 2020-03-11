@@ -73,10 +73,10 @@ class EventController extends Controller
             ]);
 
             // Création de l'événement
-            $loggedUser->events()->create($validForm);
+            $e = $loggedUser->events()->create($validForm);
         }
 
-        return redirect()->route('events.showAllEvents');
+        return redirect()->route('events.showOneEvent', $e->id);
     }
 
     public function newSession(Request $request, Evenement $Evenement)
@@ -159,6 +159,4 @@ class EventController extends Controller
         }
         return redirect()->route('home.showMe');
     }
-
-    
 }
